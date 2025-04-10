@@ -1,3 +1,21 @@
+#### NOTE TO GRADER ####
+######  ######  ######  ######
+MEMBERS TABLE NOT WORKING --> Gives an error when attemtping to query or view the members table. I have been reaching out
+to the advising team for a solution to no avail. The error I recieved is the following:
+
+#1064 - You have an error in your SQL syntax;
+check the manual that corresponds to your MySQL server version for the right syntax to use near ') LIMIT 0, 30' at line 1
+
+This error was recieved when trying to view the member tables contents. When trying to querying, I recieved the error:
+
+Error in Processing Request
+Error code: 403
+Error text: error
+
+Since the advising team could not determine a solution, they told me to submit what I can and they will process my completion for the course. 
+######  ######  ######  ######
+
+
 /* Welcome to the SQL mini project. You will carry out this project partly in
 the PHPMyAdmin interface, and partly in Jupyter via a Python connection.
 
